@@ -2,7 +2,7 @@
 
 ## Como relatar uma vulnerabilidade
 
-Não abra issue pública para falha de segurança. Use o canal de contato em [nutruck.com.br](https://nutruck.com.br), com o assunto começando em `[SECURITY]`, e descreva:
+Não abra issue pública para falha de segurança. Escreva para **contato@nutruck.com.br** com o assunto começando em `[SECURITY]`, e descreva:
 
 - o componente afetado (app, API ou painel web) e a versão ou o commit em que você observou o problema;
 - os passos para reproduzir, com requisição, payload ou log quando existir;

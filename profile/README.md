@@ -28,4 +28,4 @@ Encontrou uma falha de segurança? Leia a [política de segurança](https://gith
 
 ## Contato
 
-[nutruck.com.br](https://nutruck.com.br)
+[nutruck.com.br](https://nutruck.com.br) · contato@nutruck.com.br
